@@ -19,6 +19,10 @@ Express apporte une couche fine de fonctionnalités d'application Web fondamenta
 - utiliser VSCode.
 - installer postman
 
+>[Et pourquoi pas l'extension thunder client](https://www.youtube.com/watch?v=AbCTlemwZ1k)
+>
+> <cite>justniiico</cite>
+
 
 
 ## Comment utiliser ce repository
