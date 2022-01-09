@@ -17,6 +17,7 @@ Express apporte une couche fine de fonctionnalités d'application Web fondamenta
 
 - être à l'aise avec Javascript (ES6).
 - utiliser VSCode.
+- installer postman
 
 
 
