@@ -39,4 +39,4 @@ Ce module a une approche orientée sur la documentation. Et ce afin de vous habi
 
 - Clonez ce repo avec la commande `git clone https://github.com/r0ulito/express-playground.git`
 
-- Placez sur la branche exo1 avec la commande `git checkout exo1`
+- Placez-vous sur la branche exo1 avec la commande `git checkout exo1`
